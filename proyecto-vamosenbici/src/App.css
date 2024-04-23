@@ -49,18 +49,24 @@ body
     height: 100%;
     width: 33.3%;
     border-radius: 10px;
+    background-image: url('./assets/MONAVIAJE.jpg');
+    background-size: cover;
 }
 .cajita_2{
-    background-color: rgb(0, 255, 136);
+    background-color: white;
     height: 100%;
     width: 33.3%;
     border-radius: 10px;
+    background-image: url('./assets/VAMOSBICI.png');
+    background-size:contain;
+    background-repeat: no-repeat;
 }
 .cajita_3{
     background-color: rgb(0, 247, 255);
     height: 100%;
     width: 33.4%;
     border-radius: 10px;
+    background-image: url('./assets/Medellin--web-ready-highlight-image-305381467891693_crop_960_390.jpg');
 }
 
 .contenedor_b{
@@ -68,6 +74,8 @@ body
     height: 50%;
     border-radius: 10px;
     width: 99%;
+    background-image: url('./assets/Medellin--web-ready-highlight-image-305381467891693_crop_960_390.jpg');
+    background-size: contain;
 }
 
 .contenedor_lateral{
@@ -77,11 +85,16 @@ body
     background-color: chartreuse;
     height: 33.3%;
     border-radius: 10px;
+    background-image: url('./assets/CLIMA.png');
+    background-size: cover;
 }
 .cajita_5{
     background-color: rgb(0, 255, 136);
     height: 33.3%;
     border-radius: 10px;
+    background-image: url('./assets/SIATA.png');
+    background-size: cover;
+
 }
 .cajita_6{
     background-color: rgb(0, 247, 255);
